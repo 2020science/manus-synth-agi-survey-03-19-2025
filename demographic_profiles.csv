@@ -1,0 +1,1001 @@
+age,gender,academic_year,field_of_study,ai_familiarity,technical_background,info_Academic_courses,info_Scientific_publications,info_News_media,info_Social_media,info_Movies_TV_shows,info_Friends_family,info_I_dont_follow_AI_developments
+20-21,Male,Sophomore,Computer Science/IT,5,4,1,1,1,1,0,1,0
+24-25,Female,Junior,Engineering,3,5,0,0,1,0,1,1,0
+22-23,Female,Senior,Social Sciences,1,1,0,0,0,1,0,0,0
+20-21,Female,Sophomore,Natural Sciences,3,3,1,1,0,1,0,0,0
+18-19,Female,Freshman,Natural Sciences,1,3,0,0,0,0,0,0,1
+18-19,Female,Freshman,Engineering,2,1,0,1,1,0,1,0,0
+18-19,Female,Freshman,Health Sciences,1,3,0,0,1,0,0,0,1
+22-23,Female,Senior,Arts and Humanities,1,2,0,0,1,1,0,0,0
+20-21,Male,Freshman,Computer Science/IT,5,5,1,0,0,1,1,1,0
+22-23,Female,Junior,Arts and Humanities,1,1,0,0,1,0,1,0,0
+18-19,Male,Freshman,Natural Sciences,2,3,0,0,1,1,0,0,0
+24-25,Non-binary/third gender,Sophomore,Social Sciences,3,3,0,0,0,1,1,0,0
+22-23,Female,Senior,Social Sciences,3,3,0,0,0,1,1,0,0
+18-19,Male,Freshman,Business/Economics,2,3,0,0,0,1,0,1,1
+18-19,Female,Freshman,Natural Sciences,4,4,0,1,1,1,1,0,0
+18-19,Female,Freshman,Social Sciences,2,3,0,0,1,1,1,0,0
+20-21,Male,Sophomore,Computer Science/IT,4,2,1,1,1,0,1,0,0
+20-21,Female,Junior,Business/Economics,4,2,1,1,0,0,0,1,0
+20-21,Female,Freshman,Arts and Humanities,4,4,1,1,1,0,0,0,0
+18-19,Male,Freshman,Engineering,5,4,1,1,1,0,0,1,0
+20-21,Female,Senior,Social Sciences,3,4,0,1,1,0,0,0,0
+18-19,Male,Freshman,Business/Economics,3,3,1,1,0,1,0,0,0
+18-19,Female,Sophomore,Computer Science/IT,4,4,1,1,1,0,1,0,0
+20-21,Non-binary/third gender,Freshman,Social Sciences,2,2,0,1,0,0,0,0,1
+20-21,Female,Sophomore,Arts and Humanities,2,3,0,0,1,0,1,0,1
+22-23,Male,Junior,Business/Economics,4,5,0,1,0,1,0,1,0
+18-19,Female,Freshman,Health Sciences,4,4,1,1,1,0,0,0,0
+20-21,Female,Senior,Natural Sciences,2,4,0,0,1,1,0,1,0
+20-21,Male,Sophomore,Computer Science/IT,2,5,0,0,0,0,0,0,1
+18-19,Female,Freshman,Natural Sciences,5,4,1,1,1,1,0,1,0
+20-21,Male,Sophomore,Social Sciences,1,2,0,0,0,0,0,0,1
+18-19,Female,Freshman,Business/Economics,3,4,1,0,1,1,1,0,0
+18-19,Male,Freshman,Engineering,3,5,0,0,1,0,1,0,0
+24-25,Male,Other,Arts and Humanities,4,1,1,1,0,0,1,1,0
+24-25,Male,Senior,Social Sciences,3,3,1,0,1,0,1,1,0
+22-23,Female,Junior,Social Sciences,2,2,0,0,0,1,0,0,0
+20-21,Male,Sophomore,Business/Economics,3,3,0,0,1,1,0,1,0
+18-19,Female,Freshman,Education,3,3,1,0,0,0,0,0,0
+22-23,Male,Junior,Arts and Humanities,1,2,0,0,0,0,0,0,0
+20-21,Male,Sophomore,Natural Sciences,3,4,0,0,0,1,0,0,0
+18-19,Female,Sophomore,Social Sciences,2,3,0,0,1,0,0,0,1
+20-21,Female,Junior,Education,3,3,0,1,1,1,1,0,0
+18-19,Male,Freshman,Arts and Humanities,1,1,0,1,1,0,0,0,0
+24-25,Female,Junior,Business/Economics,2,2,0,0,0,1,0,0,0
+18-19,Female,Sophomore,Computer Science/IT,2,5,0,0,0,0,0,0,1
+22-23,Female,Senior,Computer Science/IT,4,4,1,1,1,1,1,0,0
+20-21,Male,Freshman,Business/Economics,4,3,1,1,1,0,1,1,0
+20-21,Male,Junior,Social Sciences,1,2,0,0,0,0,1,0,0
+20-21,Female,Sophomore,Business/Economics,1,1,0,0,1,0,1,0,0
+18-19,Male,Freshman,Social Sciences,1,2,0,0,0,0,1,0,0
+24-25,Female,Senior,Social Sciences,2,3,0,0,0,0,0,0,1
+22-23,Female,Junior,Business/Economics,2,3,0,0,0,0,1,0,0
+24-25,Female,Junior,Social Sciences,2,2,0,0,0,0,1,1,0
+22-23,Female,Senior,Social Sciences,2,5,0,0,0,0,0,0,1
+20-21,Prefer not to say,Junior,Computer Science/IT,5,5,1,1,1,1,1,1,0
+24-25,Male,Senior,Education,1,2,0,0,1,0,0,0,1
+18-19,Female,Freshman,Natural Sciences,1,1,0,0,0,1,0,0,0
+18-19,Male,Freshman,Arts and Humanities,1,2,0,0,0,0,0,0,0
+18-19,Male,Freshman,Arts and Humanities,3,4,0,1,1,1,0,0,0
+20-21,Female,Sophomore,Education,2,1,0,0,0,1,0,0,0
+20-21,Female,Freshman,Social Sciences,1,2,0,0,0,0,0,0,0
+18-19,Non-binary/third gender,Freshman,Arts and Humanities,3,2,0,0,1,1,1,1,0
+22-23,Female,Senior,Natural Sciences,4,4,1,1,0,1,1,0,0
+20-21,Male,Sophomore,Natural Sciences,4,3,1,0,1,1,0,1,0
+18-19,Male,Freshman,Natural Sciences,1,2,0,0,1,1,0,0,0
+20-21,Female,Junior,Social Sciences,1,2,0,1,0,0,1,0,0
+18-19,Male,Freshman,Arts and Humanities,2,2,0,0,1,1,0,0,0
+22-23,Male,Junior,Education,1,2,0,0,0,0,0,0,0
+18-19,Male,Freshman,Social Sciences,2,3,0,0,0,1,1,0,0
+26+,Male,Senior,Computer Science/IT,5,4,1,1,1,1,1,1,0
+22-23,Male,Senior,Computer Science/IT,2,3,0,0,0,1,0,1,0
+18-19,Male,Freshman,Natural Sciences,3,1,0,0,0,1,0,0,0
+18-19,Male,Freshman,Social Sciences,4,4,1,1,0,1,1,0,0
+22-23,Male,Senior,Social Sciences,1,1,0,0,0,1,1,0,0
+22-23,Non-binary/third gender,Senior,Natural Sciences,5,4,1,1,1,1,0,1,0
+22-23,Male,Senior,Engineering,1,2,0,0,0,0,0,0,0
+22-23,Male,Junior,Health Sciences,2,3,0,0,0,1,0,1,0
+18-19,Female,Freshman,Arts and Humanities,1,1,0,0,0,0,1,0,1
+20-21,Male,Senior,Social Sciences,3,2,1,0,0,1,0,0,0
+18-19,Female,Freshman,Health Sciences,4,5,0,1,1,0,1,0,0
+22-23,Female,Freshman,Computer Science/IT,3,4,0,0,1,1,0,1,0
+20-21,Male,Freshman,Health Sciences,2,3,0,0,0,1,0,0,1
+20-21,Male,Sophomore,Social Sciences,2,3,0,0,1,0,0,1,0
+18-19,Female,Sophomore,Natural Sciences,1,2,0,0,0,1,0,0,1
+20-21,Female,Sophomore,Computer Science/IT,2,3,1,0,0,0,0,0,1
+20-21,Male,Sophomore,Computer Science/IT,5,3,1,1,1,0,1,1,0
+22-23,Female,Sophomore,Business/Economics,3,3,1,0,1,1,0,0,0
+20-21,Male,Junior,Arts and Humanities,5,3,1,1,1,1,0,1,0
+22-23,Prefer to self-describe,Senior,Natural Sciences,4,3,1,1,0,0,1,1,0
+20-21,Male,Sophomore,Social Sciences,1,2,0,0,0,0,0,0,1
+18-19,Female,Freshman,Business/Economics,3,3,1,0,1,1,0,0,0
+22-23,Female,Senior,Education,2,3,0,0,0,1,1,1,0
+22-23,Female,Junior,Business/Economics,2,2,0,1,0,1,0,0,0
+20-21,Female,Sophomore,Engineering,3,2,0,0,1,1,0,0,0
+22-23,Male,Junior,Social Sciences,3,3,0,1,0,1,0,0,0
+20-21,Male,Junior,Computer Science/IT,5,5,1,1,1,1,1,1,0
+20-21,Male,Junior,Education,2,2,1,0,1,1,0,0,0
+20-21,Male,Junior,Arts and Humanities,1,2,0,0,0,1,0,0,0
+18-19,Female,Freshman,Arts and Humanities,1,1,0,0,0,0,0,0,1
+18-19,Male,Freshman,Business/Economics,3,3,1,0,1,1,0,0,0
+18-19,Male,Sophomore,Arts and Humanities,1,3,0,0,0,0,1,0,0
+20-21,Non-binary/third gender,Sophomore,Computer Science/IT,4,2,1,1,1,0,0,1,0
+20-21,Female,Sophomore,Health Sciences,1,1,0,0,1,0,1,0,0
+20-21,Female,Junior,Business/Economics,3,3,1,0,1,1,1,0,0
+24-25,Prefer to self-describe,Senior,Social Sciences,1,1,1,0,0,1,0,0,0
+18-19,Male,Freshman,Business/Economics,2,2,0,0,1,1,1,0,0
+20-21,Male,Junior,Computer Science/IT,4,4,1,1,1,0,1,1,0
+22-23,Female,Senior,Arts and Humanities,2,2,0,0,1,0,0,0,1
+18-19,Female,Freshman,Natural Sciences,2,1,0,0,1,1,1,0,0
+18-19,Male,Senior,Natural Sciences,2,3,0,0,0,0,0,1,1
+18-19,Female,Freshman,Natural Sciences,2,2,0,0,1,1,1,0,0
+18-19,Male,Freshman,Social Sciences,4,4,1,1,1,0,0,0,0
+24-25,Male,Junior,Computer Science/IT,5,4,1,0,1,1,0,0,0
+22-23,Female,Senior,Arts and Humanities,2,2,0,0,0,1,0,1,0
+20-21,Female,Junior,Social Sciences,1,2,0,0,0,0,0,0,0
+22-23,Female,Sophomore,Health Sciences,3,3,0,0,1,0,1,1,0
+22-23,Male,Junior,Computer Science/IT,5,3,1,1,0,1,0,1,0
+18-19,Female,Freshman,Arts and Humanities,1,1,0,0,0,0,0,0,0
+22-23,Male,Sophomore,Social Sciences,2,1,0,0,1,0,1,0,0
+20-21,Male,Junior,Social Sciences,2,3,0,1,1,0,1,0,0
+22-23,Female,Senior,Social Sciences,2,3,0,1,0,0,0,1,0
+22-23,Female,Junior,Social Sciences,2,3,0,0,0,0,1,0,1
+20-21,Female,Senior,Arts and Humanities,3,2,1,0,1,1,0,1,0
+18-19,Female,Freshman,Business/Economics,1,2,0,0,0,0,0,0,1
+18-19,Female,Senior,Computer Science/IT,5,4,1,1,1,1,0,0,0
+20-21,Female,Junior,Natural Sciences,1,3,0,0,0,0,0,1,0
+22-23,Male,Senior,Computer Science/IT,4,3,1,1,0,1,0,0,0
+22-23,Male,Sophomore,Arts and Humanities,2,1,0,0,1,0,0,1,0
+18-19,Male,Sophomore,Education,3,5,1,0,1,0,0,0,0
+20-21,Male,Sophomore,Engineering,3,3,0,1,0,0,1,0,0
+20-21,Female,Sophomore,Engineering,4,2,1,0,1,0,0,0,0
+18-19,Female,Freshman,Engineering,4,4,0,0,0,0,1,1,0
+18-19,Male,Freshman,Health Sciences,2,3,0,1,0,0,1,0,1
+20-21,Male,Sophomore,Natural Sciences,1,3,0,0,0,1,1,0,0
+24-25,Female,Senior,Social Sciences,4,3,0,0,0,1,1,1,0
+20-21,Male,Junior,Natural Sciences,5,3,1,1,0,0,1,1,0
+20-21,Female,Freshman,Computer Science/IT,3,3,0,0,0,0,1,0,0
+22-23,Female,Senior,Computer Science/IT,5,4,1,0,1,0,1,1,0
+20-21,Female,Sophomore,Natural Sciences,2,3,0,0,1,0,0,0,0
+26+,Female,Senior,Arts and Humanities,1,1,0,0,0,0,1,0,0
+24-25,Female,Senior,Business/Economics,3,2,0,1,0,1,1,0,0
+18-19,Male,Freshman,Health Sciences,1,2,0,0,1,1,0,0,0
+20-21,Female,Junior,Natural Sciences,3,3,0,0,0,1,0,0,0
+20-21,Female,Sophomore,Natural Sciences,4,4,1,1,1,0,1,0,0
+18-19,Male,Freshman,Social Sciences,2,2,0,0,0,0,1,0,0
+18-19,Female,Freshman,Business/Economics,1,3,0,1,0,1,0,0,0
+20-21,Female,Sophomore,Health Sciences,4,3,1,1,0,1,0,1,0
+20-21,Female,Sophomore,Computer Science/IT,3,3,0,0,1,1,0,0,0
+18-19,Female,Freshman,Engineering,1,2,0,0,0,1,0,0,0
+18-19,Female,Freshman,Business/Economics,3,3,1,0,0,1,0,1,0
+24-25,Female,Senior,Natural Sciences,3,1,0,0,0,1,0,0,0
+18-19,Female,Freshman,Social Sciences,3,3,0,0,1,1,1,1,0
+18-19,Female,Freshman,Computer Science/IT,3,5,1,0,1,1,0,0,0
+20-21,Female,Junior,Business/Economics,3,3,1,1,0,0,1,0,0
+26+,Female,Sophomore,Business/Economics,5,4,1,1,0,1,1,1,0
+18-19,Female,Freshman,Natural Sciences,3,2,0,0,1,1,0,1,0
+22-23,Male,Sophomore,Health Sciences,3,1,1,0,0,1,0,1,0
+22-23,Female,Junior,Arts and Humanities,2,4,0,0,1,0,1,0,0
+18-19,Female,Freshman,Engineering,2,4,0,0,0,0,0,0,1
+22-23,Male,Senior,Social Sciences,1,2,0,0,0,0,0,0,0
+20-21,Female,Junior,Business/Economics,4,3,1,1,1,1,0,0,0
+20-21,Male,Junior,Arts and Humanities,1,2,0,0,0,0,0,0,0
+20-21,Male,Sophomore,Social Sciences,5,3,1,0,1,1,1,1,0
+20-21,Female,Junior,Natural Sciences,4,1,1,1,1,1,0,0,0
+18-19,Male,Freshman,Arts and Humanities,2,1,0,1,0,1,1,0,0
+22-23,Female,Senior,Business/Economics,1,2,0,0,0,1,1,0,0
+20-21,Female,Junior,Health Sciences,2,2,0,0,0,1,0,0,0
+18-19,Female,Freshman,Arts and Humanities,1,2,0,0,0,0,1,0,1
+18-19,Male,Freshman,Engineering,5,4,1,1,1,1,0,1,0
+20-21,Male,Sophomore,Business/Economics,2,3,0,0,0,1,0,0,0
+22-23,Female,Senior,Computer Science/IT,2,4,0,0,1,0,0,0,0
+18-19,Non-binary/third gender,Freshman,Social Sciences,3,3,0,0,1,1,0,1,0
+20-21,Female,Sophomore,Social Sciences,1,2,0,0,0,1,0,0,1
+18-19,Male,Sophomore,Social Sciences,3,3,1,1,1,0,0,0,0
+20-21,Female,Sophomore,Arts and Humanities,3,3,1,1,0,1,1,0,0
+18-19,Female,Freshman,Social Sciences,3,3,0,0,1,1,0,0,0
+22-23,Female,Junior,Computer Science/IT,5,4,1,1,0,1,0,1,0
+20-21,Male,Junior,Health Sciences,3,3,0,0,1,1,0,0,0
+24-25,Female,Senior,Engineering,4,3,1,0,0,0,1,0,0
+18-19,Female,Freshman,Computer Science/IT,3,4,0,0,1,1,1,0,0
+20-21,Non-binary/third gender,Sophomore,Arts and Humanities,2,1,0,0,0,0,1,0,1
+18-19,Male,Freshman,Social Sciences,2,3,0,0,0,0,0,0,1
+24-25,Female,Sophomore,Social Sciences,2,1,0,0,0,1,1,0,0
+22-23,Female,Junior,Social Sciences,1,1,0,0,0,1,0,0,0
+18-19,Male,Freshman,Natural Sciences,1,2,0,0,0,1,0,1,0
+22-23,Female,Senior,Natural Sciences,2,2,0,0,0,0,0,1,1
+22-23,Female,Senior,Business/Economics,2,1,0,0,1,0,0,0,0
+20-21,Male,Junior,Business/Economics,3,3,1,0,1,0,1,0,0
+20-21,Male,Junior,Engineering,4,3,1,1,0,0,1,1,0
+18-19,Female,Freshman,Engineering,3,2,1,0,1,1,0,0,0
+18-19,Male,Freshman,Social Sciences,1,1,0,0,0,0,0,0,0
+22-23,Female,Senior,Health Sciences,3,3,0,1,1,0,1,1,0
+24-25,Male,Senior,Education,4,4,1,0,1,0,0,1,0
+20-21,Female,Junior,Social Sciences,2,5,0,0,1,0,0,0,0
+20-21,Male,Sophomore,Business/Economics,1,1,0,0,1,0,1,0,0
+20-21,Female,Sophomore,Natural Sciences,2,2,0,0,0,1,1,1,0
+22-23,Non-binary/third gender,Junior,Health Sciences,1,3,0,0,0,0,0,0,1
+22-23,Non-binary/third gender,Senior,Health Sciences,4,4,1,1,1,1,1,0,0
+22-23,Female,Junior,Arts and Humanities,1,1,0,0,0,1,0,1,0
+22-23,Male,Junior,Business/Economics,1,2,0,0,1,0,0,0,0
+20-21,Female,Senior,Natural Sciences,2,2,0,0,1,0,0,0,0
+18-19,Male,Freshman,Natural Sciences,2,2,0,0,0,0,1,0,0
+18-19,Male,Freshman,Social Sciences,4,5,1,1,0,1,1,1,0
+22-23,Male,Sophomore,Engineering,3,5,0,0,1,0,1,0,0
+20-21,Female,Junior,Computer Science/IT,4,3,1,1,1,0,0,1,0
+18-19,Female,Sophomore,Engineering,1,2,0,0,0,1,0,0,0
+18-19,Female,Freshman,Engineering,5,4,1,0,1,1,1,1,0
+22-23,Male,Senior,Computer Science/IT,4,4,0,1,1,0,0,1,0
+18-19,Male,Freshman,Business/Economics,1,3,0,0,0,0,0,0,1
+18-19,Prefer not to say,Sophomore,Natural Sciences,1,2,0,0,0,0,0,0,0
+20-21,Male,Junior,Social Sciences,4,1,1,0,1,1,0,1,0
+22-23,Male,Senior,Computer Science/IT,5,4,1,1,1,0,1,1,0
+22-23,Male,Freshman,Social Sciences,1,2,0,0,1,0,0,0,0
+18-19,Female,Junior,Computer Science/IT,2,3,0,0,0,0,0,1,0
+22-23,Female,Senior,Social Sciences,2,1,0,0,0,1,1,1,0
+18-19,Male,Freshman,Arts and Humanities,1,2,0,0,1,0,1,0,0
+20-21,Male,Junior,Social Sciences,3,2,0,1,0,1,0,0,0
+22-23,Female,Junior,Arts and Humanities,1,1,0,0,0,0,0,1,0
+20-21,Female,Junior,Computer Science/IT,4,3,0,0,1,0,0,1,0
+22-23,Male,Sophomore,Computer Science/IT,4,5,1,1,0,1,1,1,0
+22-23,Female,Senior,Natural Sciences,5,4,1,0,1,1,0,1,0
+20-21,Male,Sophomore,Social Sciences,1,1,0,0,0,0,0,0,1
+18-19,Male,Freshman,Arts and Humanities,4,2,1,0,0,0,1,1,0
+20-21,Female,Sophomore,Arts and Humanities,2,1,0,0,1,1,0,0,0
+18-19,Male,Freshman,Social Sciences,2,2,0,1,0,1,0,1,0
+18-19,Female,Freshman,Health Sciences,2,2,0,1,1,1,0,0,0
+26+,Male,Senior,Social Sciences,3,3,0,0,0,1,0,1,0
+20-21,Male,Junior,Business/Economics,2,4,0,1,0,1,0,0,0
+22-23,Non-binary/third gender,Junior,Arts and Humanities,1,2,0,0,0,0,1,0,0
+20-21,Male,Sophomore,Social Sciences,1,2,0,0,0,0,0,0,1
+22-23,Female,Senior,Natural Sciences,3,3,0,1,0,0,1,0,0
+20-21,Male,Freshman,Natural Sciences,3,5,0,1,0,0,1,0,0
+20-21,Male,Senior,Social Sciences,2,3,0,0,0,1,0,1,0
+20-21,Male,Junior,Arts and Humanities,1,1,0,0,1,1,0,0,0
+18-19,Female,Freshman,Business/Economics,5,5,0,1,1,0,1,1,0
+22-23,Male,Junior,Social Sciences,5,4,1,1,1,1,1,1,0
+18-19,Female,Sophomore,Social Sciences,1,1,0,0,0,0,0,1,0
+18-19,Male,Freshman,Education,2,3,0,0,1,0,0,0,0
+20-21,Non-binary/third gender,Freshman,Natural Sciences,3,3,0,1,1,0,0,0,0
+18-19,Male,Freshman,Natural Sciences,3,3,1,0,1,1,0,1,0
+24-25,Female,Senior,Business/Economics,2,2,0,0,0,0,0,0,1
+24-25,Female,Sophomore,Business/Economics,3,3,1,0,1,1,0,0,0
+24-25,Female,Senior,Natural Sciences,3,2,1,0,1,1,0,0,0
+20-21,Female,Other,Computer Science/IT,2,1,0,0,1,0,0,1,0
+18-19,Female,Sophomore,Computer Science/IT,5,5,0,1,1,1,1,1,0
+24-25,Female,Senior,Social Sciences,2,2,0,0,0,0,0,0,1
+20-21,Male,Freshman,Natural Sciences,4,3,1,1,0,0,1,1,0
+24-25,Male,Senior,Business/Economics,4,4,1,1,1,0,1,0,0
+24-25,Female,Senior,Health Sciences,1,3,0,0,0,1,0,0,0
+22-23,Female,Sophomore,Natural Sciences,2,2,0,0,0,0,1,1,0
+18-19,Female,Freshman,Natural Sciences,3,3,0,0,1,1,0,1,0
+20-21,Female,Senior,Arts and Humanities,1,1,0,0,1,0,0,0,0
+22-23,Male,Senior,Natural Sciences,2,3,0,1,0,1,1,0,0
+20-21,Male,Junior,Arts and Humanities,1,3,0,0,0,0,0,0,1
+18-19,Female,Sophomore,Social Sciences,3,2,0,0,1,0,0,0,0
+20-21,Male,Junior,Arts and Humanities,1,1,0,0,0,1,0,0,0
+24-25,Male,Senior,Computer Science/IT,3,2,1,0,1,0,1,0,0
+22-23,Female,Junior,Social Sciences,1,2,0,0,0,0,0,1,0
+20-21,Male,Sophomore,Business/Economics,4,3,1,1,1,1,1,0,0
+18-19,Female,Freshman,Health Sciences,1,2,0,0,1,0,0,0,1
+20-21,Male,Junior,Social Sciences,4,4,1,0,1,0,0,1,0
+26+,Female,Senior,Natural Sciences,4,4,1,1,0,1,0,1,0
+18-19,Male,Sophomore,Business/Economics,4,4,0,1,1,0,1,0,0
+20-21,Male,Sophomore,Arts and Humanities,4,3,1,1,0,1,0,1,0
+22-23,Male,Senior,Engineering,3,4,0,0,0,1,1,0,0
+22-23,Male,Senior,Arts and Humanities,1,1,0,1,0,0,0,0,0
+22-23,Male,Junior,Business/Economics,1,2,0,0,0,0,0,0,1
+22-23,Male,Senior,Natural Sciences,3,3,0,0,0,1,1,1,0
+20-21,Female,Sophomore,Natural Sciences,3,3,1,0,1,1,0,0,0
+18-19,Male,Freshman,Computer Science/IT,1,2,0,0,1,1,0,0,0
+22-23,Female,Sophomore,Social Sciences,1,1,0,0,1,0,0,0,0
+22-23,Female,Junior,Arts and Humanities,1,1,0,0,0,0,0,0,1
+22-23,Female,Junior,Computer Science/IT,5,4,0,1,1,1,1,1,0
+24-25,Male,Senior,Natural Sciences,2,1,0,0,1,1,0,0,0
+20-21,Female,Senior,Engineering,5,4,1,1,1,1,1,1,0
+20-21,Male,Junior,Engineering,2,5,0,0,1,1,0,1,0
+22-23,Male,Senior,Engineering,5,3,1,0,1,1,0,1,0
+20-21,Non-binary/third gender,Sophomore,Business/Economics,3,3,1,1,1,0,0,0,0
+22-23,Male,Senior,Social Sciences,3,3,0,0,1,1,0,0,0
+22-23,Female,Sophomore,Engineering,5,5,1,0,1,0,1,0,0
+22-23,Female,Junior,Business/Economics,3,4,0,0,1,1,1,0,0
+20-21,Female,Sophomore,Social Sciences,2,4,1,0,0,1,0,0,0
+20-21,Female,Sophomore,Engineering,5,3,1,1,0,1,1,1,0
+18-19,Male,Freshman,Health Sciences,1,2,0,0,0,0,0,0,0
+20-21,Male,Sophomore,Business/Economics,3,2,0,0,0,1,1,0,0
+18-19,Female,Freshman,Arts and Humanities,2,2,0,0,1,0,0,0,0
+20-21,Male,Senior,Business/Economics,3,2,1,1,0,1,0,1,0
+20-21,Male,Sophomore,Engineering,4,5,1,0,1,0,0,1,0
+18-19,Male,Freshman,Health Sciences,1,2,0,0,0,0,0,1,1
+20-21,Male,Sophomore,Social Sciences,4,5,1,0,1,0,1,1,0
+18-19,Male,Freshman,Arts and Humanities,3,4,0,0,0,1,0,0,0
+18-19,Male,Freshman,Health Sciences,3,3,1,0,0,1,0,1,0
+22-23,Female,Junior,Business/Economics,5,3,1,1,1,1,1,1,0
+20-21,Female,Sophomore,Natural Sciences,2,3,0,0,0,1,0,0,0
+18-19,Female,Freshman,Education,3,3,1,0,0,1,1,0,0
+20-21,Male,Freshman,Arts and Humanities,1,2,0,0,1,0,1,0,0
+22-23,Male,Junior,Natural Sciences,2,3,0,0,0,0,0,0,1
+18-19,Male,Freshman,Arts and Humanities,2,2,0,0,1,1,1,0,0
+20-21,Female,Sophomore,Business/Economics,3,4,1,0,0,0,1,1,0
+18-19,Female,Freshman,Engineering,4,4,0,1,1,1,1,1,0
+18-19,Male,Freshman,Business/Economics,3,2,1,0,0,1,1,0,0
+20-21,Female,Junior,Other,3,4,0,1,1,0,0,1,0
+20-21,Male,Sophomore,Natural Sciences,5,4,1,0,1,1,0,1,0
+20-21,Female,Sophomore,Social Sciences,1,3,0,0,1,1,0,0,0
+22-23,Female,Senior,Social Sciences,3,5,0,0,1,0,1,0,0
+26+,Female,Senior,Business/Economics,1,2,0,0,1,0,0,1,0
+20-21,Female,Freshman,Business/Economics,2,3,0,0,0,1,1,0,0
+20-21,Female,Junior,Arts and Humanities,1,1,0,0,0,1,0,0,0
+22-23,Male,Sophomore,Business/Economics,5,4,1,1,1,0,1,1,0
+18-19,Female,Freshman,Business/Economics,3,2,1,0,0,1,0,0,0
+20-21,Male,Sophomore,Computer Science/IT,5,5,1,1,1,1,1,1,0
+18-19,Female,Sophomore,Computer Science/IT,3,2,0,0,0,1,1,0,0
+18-19,Female,Freshman,Computer Science/IT,5,5,1,1,1,1,1,1,0
+24-25,Female,Senior,Arts and Humanities,1,1,0,0,0,0,0,0,1
+22-23,Male,Other,Social Sciences,2,3,0,0,0,0,0,0,1
+22-23,Female,Sophomore,Computer Science/IT,2,2,1,0,0,1,0,0,0
+20-21,Female,Sophomore,Business/Economics,5,4,1,0,1,1,0,1,0
+18-19,Female,Freshman,Arts and Humanities,4,1,1,1,1,0,1,1,0
+18-19,Male,Freshman,Engineering,4,3,1,1,0,1,1,1,0
+18-19,Male,Freshman,Engineering,5,5,1,0,1,1,1,0,0
+20-21,Male,Senior,Natural Sciences,3,5,0,1,0,1,0,0,0
+22-23,Male,Senior,Arts and Humanities,1,3,0,0,0,0,0,0,0
+22-23,Female,Senior,Engineering,5,4,1,1,1,1,1,1,0
+18-19,Male,Freshman,Natural Sciences,2,3,0,1,0,1,0,0,1
+24-25,Non-binary/third gender,Senior,Engineering,3,5,1,1,0,1,0,0,0
+22-23,Male,Senior,Engineering,3,2,0,1,1,1,0,0,0
+20-21,Male,Junior,Engineering,5,4,1,1,1,1,1,1,0
+20-21,Female,Freshman,Natural Sciences,2,3,0,0,0,1,0,0,1
+20-21,Female,Junior,Arts and Humanities,2,3,0,0,1,0,0,0,1
+18-19,Female,Freshman,Computer Science/IT,4,3,1,1,0,0,1,1,0
+20-21,Female,Sophomore,Natural Sciences,3,3,1,0,0,0,1,0,0
+22-23,Female,Sophomore,Computer Science/IT,5,4,1,1,1,1,1,1,0
+18-19,Male,Freshman,Social Sciences,3,3,1,1,1,1,0,0,0
+18-19,Prefer not to say,Freshman,Social Sciences,2,1,0,0,1,0,0,0,0
+18-19,Non-binary/third gender,Freshman,Health Sciences,3,3,0,1,0,1,0,1,0
+18-19,Female,Freshman,Computer Science/IT,5,3,1,1,1,1,1,1,0
+22-23,Male,Junior,Health Sciences,1,3,0,0,0,0,0,0,1
+22-23,Female,Junior,Engineering,5,4,1,1,1,1,0,1,0
+20-21,Male,Sophomore,Natural Sciences,4,1,1,0,1,0,0,0,0
+18-19,Male,Freshman,Computer Science/IT,5,4,1,0,1,1,1,1,0
+20-21,Male,Junior,Health Sciences,1,2,0,0,0,1,0,0,0
+20-21,Male,Freshman,Natural Sciences,3,5,0,1,0,1,0,1,0
+18-19,Female,Freshman,Natural Sciences,4,4,1,1,1,1,0,0,0
+20-21,Female,Sophomore,Social Sciences,1,1,0,0,0,1,0,0,0
+20-21,Female,Senior,Business/Economics,5,3,1,1,0,0,0,1,0
+20-21,Male,Junior,Computer Science/IT,3,3,1,0,1,1,0,0,0
+20-21,Male,Junior,Social Sciences,1,2,0,0,1,0,0,0,1
+18-19,Male,Freshman,Social Sciences,3,2,1,0,0,1,1,0,0
+20-21,Non-binary/third gender,Junior,Social Sciences,1,2,0,0,0,0,0,0,1
+20-21,Male,Freshman,Social Sciences,4,1,1,0,0,1,0,1,0
+20-21,Female,Junior,Social Sciences,1,1,0,1,0,0,0,0,0
+22-23,Female,Senior,Business/Economics,3,3,1,0,1,1,0,0,0
+22-23,Male,Senior,Health Sciences,1,2,0,0,0,0,0,0,1
+18-19,Female,Sophomore,Natural Sciences,3,4,1,1,1,1,0,0,0
+18-19,Female,Freshman,Social Sciences,3,3,1,1,1,1,0,0,0
+20-21,Female,Sophomore,Arts and Humanities,1,2,0,0,1,0,0,0,1
+18-19,Female,Sophomore,Computer Science/IT,4,3,1,1,1,0,0,1,0
+20-21,Male,Freshman,Business/Economics,2,3,0,0,1,1,0,0,0
+24-25,Male,Senior,Engineering,5,4,1,1,1,0,0,1,0
+20-21,Female,Sophomore,Computer Science/IT,5,4,1,1,1,1,1,0,0
+20-21,Female,Freshman,Engineering,2,3,0,0,1,1,0,0,0
+20-21,Male,Sophomore,Social Sciences,1,1,0,0,1,0,0,0,0
+20-21,Female,Sophomore,Computer Science/IT,1,3,0,0,0,0,1,0,0
+20-21,Female,Sophomore,Social Sciences,4,4,1,1,1,1,1,0,0
+24-25,Female,Senior,Health Sciences,1,3,0,0,1,1,0,0,0
+20-21,Male,Freshman,Natural Sciences,1,2,0,0,0,0,1,0,1
+24-25,Female,Junior,Social Sciences,4,3,1,1,0,0,1,1,0
+24-25,Female,Senior,Social Sciences,1,2,0,0,0,0,0,0,1
+18-19,Male,Freshman,Social Sciences,1,2,0,0,0,1,0,0,0
+18-19,Male,Freshman,Computer Science/IT,4,3,1,1,1,0,0,1,0
+18-19,Non-binary/third gender,Freshman,Social Sciences,1,3,0,0,0,1,0,0,0
+18-19,Male,Freshman,Natural Sciences,4,1,0,1,1,1,0,1,0
+18-19,Female,Freshman,Social Sciences,1,1,0,0,1,1,0,0,0
+22-23,Female,Junior,Computer Science/IT,1,3,0,0,0,1,0,0,0
+18-19,Male,Freshman,Engineering,4,3,1,0,1,1,1,1,0
+20-21,Female,Sophomore,Engineering,3,3,1,0,0,1,0,0,0
+22-23,Male,Junior,Engineering,5,4,1,1,1,1,1,1,0
+18-19,Female,Freshman,Social Sciences,5,4,1,1,1,1,1,1,0
+22-23,Male,Junior,Arts and Humanities,2,1,0,0,0,1,1,0,0
+18-19,Female,Freshman,Computer Science/IT,5,4,1,0,1,0,1,1,0
+18-19,Male,Freshman,Business/Economics,5,3,1,1,1,0,1,1,0
+22-23,Male,Senior,Business/Economics,3,4,0,0,0,0,1,0,0
+20-21,Non-binary/third gender,Senior,Arts and Humanities,4,2,0,0,0,1,1,1,0
+22-23,Male,Junior,Social Sciences,2,4,0,0,0,1,1,0,0
+22-23,Female,Junior,Arts and Humanities,2,3,0,0,0,1,0,0,1
+22-23,Male,Junior,Health Sciences,1,1,0,0,0,0,0,0,0
+18-19,Female,Freshman,Social Sciences,2,1,0,0,0,1,1,0,0
+18-19,Male,Freshman,Natural Sciences,3,2,1,0,1,1,0,0,0
+22-23,Non-binary/third gender,Senior,Arts and Humanities,1,1,0,1,0,0,0,1,0
+22-23,Male,Senior,Computer Science/IT,3,3,1,0,1,1,0,1,0
+26+,Male,Senior,Social Sciences,1,1,0,0,0,0,0,0,1
+20-21,Male,Sophomore,Health Sciences,2,3,0,0,0,0,0,0,1
+20-21,Male,Sophomore,Health Sciences,1,2,0,0,0,0,1,0,0
+22-23,Female,Sophomore,Social Sciences,5,4,1,1,1,1,1,1,0
+20-21,Male,Junior,Health Sciences,2,3,0,1,1,0,0,0,0
+24-25,Female,Senior,Other,4,1,1,1,0,1,1,1,0
+22-23,Male,Sophomore,Engineering,2,2,0,0,0,0,1,0,0
+20-21,Male,Freshman,Engineering,3,3,0,0,0,1,0,1,0
+22-23,Female,Senior,Social Sciences,2,1,0,0,0,0,1,0,1
+22-23,Female,Senior,Natural Sciences,2,2,0,0,0,1,0,0,0
+18-19,Male,Freshman,Arts and Humanities,1,1,0,0,1,0,0,0,0
+24-25,Male,Sophomore,Arts and Humanities,2,4,0,0,1,0,0,1,0
+20-21,Male,Sophomore,Other,2,3,0,0,1,1,0,0,0
+22-23,Female,Junior,Social Sciences,4,1,0,1,0,1,0,1,0
+20-21,Female,Junior,Computer Science/IT,5,3,1,1,1,1,1,1,0
+22-23,Male,Senior,Engineering,5,3,1,1,1,1,0,1,0
+20-21,Female,Sophomore,Engineering,3,1,1,0,0,1,0,0,0
+18-19,Female,Freshman,Other,4,3,0,1,1,0,0,0,0
+24-25,Female,Other,Social Sciences,4,4,1,1,1,1,0,0,0
+18-19,Female,Freshman,Arts and Humanities,1,3,0,0,0,0,0,0,1
+20-21,Male,Junior,Business/Economics,1,2,0,0,0,1,0,0,0
+24-25,Male,Junior,Arts and Humanities,1,2,0,0,0,0,0,0,0
+24-25,Male,Senior,Arts and Humanities,1,2,0,0,0,0,0,0,0
+20-21,Male,Freshman,Business/Economics,2,3,0,0,0,0,1,0,0
+20-21,Female,Sophomore,Engineering,4,3,0,1,1,1,1,0,0
+20-21,Female,Senior,Natural Sciences,5,4,0,0,1,1,1,0,0
+18-19,Male,Freshman,Social Sciences,1,3,0,0,1,0,0,0,0
+20-21,Male,Freshman,Computer Science/IT,3,4,0,0,1,1,1,0,0
+22-23,Male,Sophomore,Social Sciences,1,2,0,0,0,1,0,0,1
+22-23,Female,Junior,Arts and Humanities,1,1,0,0,0,1,1,0,0
+22-23,Male,Sophomore,Engineering,5,5,1,1,1,1,0,1,0
+22-23,Female,Freshman,Natural Sciences,1,3,0,0,0,0,1,0,1
+18-19,Male,Freshman,Engineering,3,3,0,0,1,0,1,0,0
+20-21,Male,Sophomore,Arts and Humanities,2,4,0,0,0,0,1,0,0
+18-19,Non-binary/third gender,Freshman,Engineering,3,5,0,0,0,1,0,1,0
+20-21,Non-binary/third gender,Senior,Natural Sciences,4,5,0,1,0,1,1,1,0
+20-21,Male,Sophomore,Natural Sciences,3,4,1,0,1,1,0,0,0
+22-23,Female,Senior,Natural Sciences,2,3,0,0,0,1,0,0,1
+20-21,Female,Sophomore,Engineering,4,2,1,1,1,1,0,1,0
+18-19,Female,Sophomore,Natural Sciences,5,5,1,1,1,1,1,1,0
+18-19,Male,Freshman,Natural Sciences,4,3,1,1,1,0,1,0,0
+22-23,Female,Senior,Other,1,1,0,0,0,0,0,1,0
+20-21,Female,Senior,Engineering,4,3,1,1,0,1,0,0,0
+18-19,Female,Freshman,Business/Economics,2,3,0,0,0,1,1,0,0
+18-19,Male,Junior,Computer Science/IT,5,4,1,1,0,1,0,1,0
+22-23,Male,Junior,Business/Economics,2,3,0,0,0,1,0,0,0
+18-19,Male,Freshman,Social Sciences,1,1,0,0,0,0,1,0,0
+22-23,Female,Junior,Natural Sciences,2,2,0,0,0,0,1,0,0
+22-23,Male,Junior,Health Sciences,3,3,1,1,1,1,0,0,0
+18-19,Female,Freshman,Health Sciences,2,2,0,0,0,1,1,0,0
+18-19,Non-binary/third gender,Freshman,Social Sciences,1,1,0,0,0,1,0,0,0
+26+,Male,Senior,Natural Sciences,3,4,0,0,0,1,1,0,0
+20-21,Female,Junior,Social Sciences,3,1,1,0,1,0,0,0,0
+20-21,Male,Junior,Other,2,1,0,0,0,1,1,0,0
+22-23,Female,Junior,Education,2,1,1,0,0,0,1,0,0
+24-25,Male,Senior,Natural Sciences,1,2,0,0,0,0,0,0,0
+26+,Female,Junior,Engineering,4,4,1,1,1,1,0,1,0
+22-23,Female,Junior,Computer Science/IT,2,3,0,0,0,0,0,0,1
+20-21,Female,Freshman,Natural Sciences,1,2,0,0,0,0,1,0,0
+18-19,Female,Freshman,Arts and Humanities,3,1,1,1,0,0,0,1,0
+22-23,Female,Junior,Business/Economics,2,1,0,0,1,0,0,0,0
+20-21,Female,Senior,Computer Science/IT,2,2,0,0,1,0,0,0,0
+20-21,Female,Junior,Computer Science/IT,3,5,1,0,1,1,0,1,0
+24-25,Female,Senior,Business/Economics,3,5,1,1,0,0,0,0,0
+18-19,Male,Freshman,Health Sciences,2,3,0,0,1,0,0,0,0
+20-21,Female,Sophomore,Social Sciences,4,4,1,1,1,0,0,1,0
+18-19,Female,Freshman,Natural Sciences,2,3,0,0,1,1,1,0,0
+20-21,Female,Junior,Computer Science/IT,5,3,1,1,1,1,0,1,0
+18-19,Male,Freshman,Computer Science/IT,3,3,0,1,1,0,1,0,0
+18-19,Female,Freshman,Natural Sciences,3,4,0,0,1,1,1,0,0
+18-19,Male,Other,Social Sciences,4,5,1,1,1,0,1,0,0
+20-21,Female,Junior,Social Sciences,3,2,1,0,1,0,1,0,0
+22-23,Male,Senior,Natural Sciences,1,1,0,0,0,0,0,0,1
+20-21,Female,Junior,Natural Sciences,2,3,0,0,1,0,1,0,0
+24-25,Prefer not to say,Senior,Social Sciences,4,3,1,1,1,1,0,0,0
+20-21,Male,Sophomore,Computer Science/IT,4,4,0,1,0,1,0,0,0
+18-19,Non-binary/third gender,Freshman,Business/Economics,4,5,1,1,1,0,1,1,0
+22-23,Male,Sophomore,Computer Science/IT,4,4,1,1,1,1,0,1,0
+18-19,Female,Freshman,Engineering,5,5,1,1,1,0,1,1,0
+24-25,Female,Senior,Social Sciences,3,3,0,1,0,1,1,0,0
+18-19,Female,Freshman,Arts and Humanities,1,1,0,0,0,1,0,0,0
+24-25,Female,Other,Engineering,4,5,1,1,1,1,0,1,0
+18-19,Female,Sophomore,Natural Sciences,5,4,1,0,0,1,1,1,0
+22-23,Male,Senior,Computer Science/IT,5,4,1,1,1,0,0,1,0
+20-21,Male,Sophomore,Engineering,5,5,1,1,0,1,0,0,0
+26+,Female,Senior,Engineering,2,3,0,0,0,1,1,0,0
+18-19,Female,Freshman,Education,2,2,0,0,0,0,0,0,1
+20-21,Female,Junior,Natural Sciences,4,3,0,1,0,0,0,1,0
+24-25,Female,Junior,Business/Economics,3,3,0,1,1,1,1,0,0
+20-21,Male,Junior,Business/Economics,3,2,1,0,0,1,0,0,0
+20-21,Female,Sophomore,Social Sciences,1,2,0,0,0,1,0,0,0
+22-23,Male,Senior,Natural Sciences,3,2,0,0,1,1,0,1,0
+20-21,Female,Senior,Social Sciences,1,2,0,0,0,0,0,0,1
+20-21,Male,Sophomore,Health Sciences,4,5,1,0,0,1,0,1,0
+20-21,Male,Sophomore,Natural Sciences,4,5,1,0,0,1,0,1,0
+24-25,Male,Other,Natural Sciences,4,3,0,0,1,0,0,1,0
+18-19,Male,Freshman,Business/Economics,4,3,1,1,0,0,1,1,0
+18-19,Female,Sophomore,Arts and Humanities,1,1,0,0,0,0,0,0,1
+24-25,Male,Senior,Arts and Humanities,1,1,0,0,0,1,0,0,0
+22-23,Male,Junior,Business/Economics,1,1,0,0,0,0,0,0,0
+20-21,Male,Sophomore,Arts and Humanities,3,4,1,0,1,0,0,0,0
+20-21,Male,Sophomore,Natural Sciences,4,3,1,1,1,1,0,1,0
+18-19,Male,Freshman,Health Sciences,1,3,0,0,0,0,1,0,1
+18-19,Male,Freshman,Health Sciences,3,3,0,1,0,1,1,0,0
+20-21,Female,Sophomore,Computer Science/IT,5,4,0,1,1,0,1,1,0
+20-21,Female,Sophomore,Social Sciences,4,5,1,1,1,1,0,1,0
+20-21,Female,Junior,Engineering,4,3,1,1,1,1,0,1,0
+18-19,Male,Sophomore,Health Sciences,3,1,1,0,1,1,0,0,0
+26+,Male,Other,Social Sciences,1,1,0,0,0,1,0,0,1
+26+,Female,Senior,Computer Science/IT,5,5,1,1,1,1,1,0,0
+22-23,Female,Senior,Social Sciences,1,2,0,0,0,1,1,0,0
+20-21,Male,Junior,Engineering,4,5,1,1,0,1,1,1,0
+20-21,Male,Junior,Other,1,3,0,0,0,0,0,0,1
+22-23,Male,Senior,Arts and Humanities,3,3,1,1,0,0,1,0,0
+22-23,Male,Junior,Health Sciences,1,2,0,0,0,0,0,0,0
+18-19,Male,Freshman,Natural Sciences,3,2,0,0,1,0,1,0,0
+24-25,Female,Senior,Education,2,2,1,0,1,0,0,1,0
+22-23,Female,Junior,Business/Economics,1,2,0,0,1,1,0,0,0
+24-25,Female,Senior,Engineering,2,1,1,0,0,0,1,0,0
+22-23,Female,Senior,Arts and Humanities,3,2,1,1,0,0,0,0,0
+20-21,Female,Freshman,Social Sciences,2,3,0,0,1,1,1,0,0
+20-21,Female,Junior,Arts and Humanities,4,4,1,0,1,1,0,0,0
+24-25,Female,Senior,Education,3,4,1,1,1,0,0,1,0
+22-23,Male,Junior,Engineering,2,3,0,0,1,1,0,0,0
+18-19,Male,Freshman,Engineering,3,4,1,0,0,1,1,0,0
+18-19,Male,Sophomore,Health Sciences,1,2,0,0,0,0,0,0,1
+20-21,Female,Freshman,Arts and Humanities,2,2,0,0,1,1,0,0,0
+22-23,Female,Junior,Business/Economics,2,2,0,0,0,0,0,0,1
+26+,Male,Senior,Arts and Humanities,4,2,1,0,0,1,0,1,0
+18-19,Female,Freshman,Social Sciences,4,3,1,1,0,1,0,1,0
+20-21,Male,Junior,Social Sciences,3,3,1,1,0,1,0,1,0
+20-21,Female,Sophomore,Business/Economics,2,2,0,0,0,1,1,0,0
+24-25,Male,Junior,Social Sciences,3,3,1,0,1,1,1,0,0
+22-23,Male,Junior,Arts and Humanities,1,2,0,0,0,0,0,0,0
+22-23,Female,Senior,Social Sciences,1,2,0,0,0,0,1,0,0
+20-21,Male,Sophomore,Arts and Humanities,2,1,0,0,0,1,0,1,0
+20-21,Male,Sophomore,Education,1,1,0,0,0,1,0,0,0
+18-19,Male,Junior,Engineering,5,4,1,1,1,1,0,0,0
+18-19,Female,Freshman,Education,1,2,0,0,0,0,0,0,1
+22-23,Female,Other,Business/Economics,2,3,0,0,0,0,1,0,0
+22-23,Male,Senior,Social Sciences,5,4,1,1,0,1,0,1,0
+26+,Female,Senior,Engineering,4,4,1,1,0,1,0,1,0
+26+,Female,Junior,Social Sciences,1,3,0,0,0,0,0,1,0
+20-21,Male,Freshman,Social Sciences,1,2,0,0,1,0,0,0,0
+22-23,Male,Senior,Social Sciences,2,4,0,0,0,0,0,0,1
+24-25,Male,Senior,Arts and Humanities,2,2,0,0,0,1,0,0,1
+22-23,Male,Senior,Social Sciences,1,2,0,0,0,0,0,1,0
+18-19,Female,Freshman,Business/Economics,4,5,0,1,0,0,0,1,0
+20-21,Male,Junior,Computer Science/IT,4,4,0,1,1,0,1,0,0
+18-19,Female,Freshman,Arts and Humanities,1,2,0,0,0,0,0,0,0
+24-25,Female,Senior,Social Sciences,1,1,0,0,1,0,1,0,0
+20-21,Male,Junior,Engineering,4,5,1,1,0,0,1,1,0
+18-19,Female,Freshman,Arts and Humanities,1,1,0,0,0,1,0,0,0
+22-23,Male,Senior,Social Sciences,1,3,0,0,0,1,0,0,0
+20-21,Non-binary/third gender,Freshman,Engineering,3,4,0,0,0,1,0,0,0
+20-21,Female,Sophomore,Social Sciences,1,1,0,0,0,0,0,0,1
+18-19,Female,Freshman,Arts and Humanities,1,3,0,0,0,0,0,0,0
+22-23,Female,Junior,Business/Economics,2,1,0,0,1,1,1,0,0
+20-21,Male,Sophomore,Social Sciences,2,3,0,0,1,0,1,0,0
+22-23,Female,Sophomore,Natural Sciences,1,3,0,0,0,0,0,0,0
+20-21,Female,Sophomore,Engineering,5,4,1,0,1,0,0,1,0
+22-23,Female,Sophomore,Arts and Humanities,1,2,0,0,0,0,0,0,0
+20-21,Female,Junior,Natural Sciences,1,2,0,0,0,0,0,0,1
+20-21,Female,Senior,Natural Sciences,1,3,0,0,0,1,0,1,0
+22-23,Male,Sophomore,Arts and Humanities,5,3,1,1,0,1,1,0,0
+20-21,Male,Senior,Natural Sciences,5,5,1,1,1,1,0,1,0
+18-19,Female,Freshman,Social Sciences,3,3,1,0,1,0,0,0,0
+18-19,Male,Freshman,Business/Economics,2,2,0,0,1,0,0,0,0
+22-23,Female,Sophomore,Arts and Humanities,1,2,1,0,0,1,0,0,0
+20-21,Female,Sophomore,Business/Economics,3,4,0,1,0,1,0,0,0
+22-23,Male,Senior,Social Sciences,3,2,0,0,0,1,1,0,0
+18-19,Male,Freshman,Engineering,2,2,0,1,0,0,0,0,0
+18-19,Female,Freshman,Arts and Humanities,4,4,1,1,1,1,1,0,0
+18-19,Male,Freshman,Business/Economics,2,3,0,0,0,0,1,0,1
+20-21,Female,Sophomore,Business/Economics,3,2,1,0,0,1,1,0,0
+20-21,Male,Sophomore,Computer Science/IT,5,4,1,1,1,1,0,1,0
+20-21,Female,Sophomore,Natural Sciences,1,1,0,0,0,0,0,0,1
+20-21,Male,Sophomore,Computer Science/IT,4,5,1,0,1,0,1,1,0
+24-25,Female,Senior,Engineering,3,4,0,0,1,0,1,1,0
+20-21,Male,Senior,Engineering,5,4,1,1,0,1,1,1,0
+20-21,Female,Sophomore,Social Sciences,1,2,0,0,0,0,0,0,1
+22-23,Male,Senior,Natural Sciences,4,3,1,1,0,1,1,0,0
+20-21,Female,Sophomore,Engineering,5,4,1,1,1,1,1,0,0
+20-21,Female,Sophomore,Education,4,3,1,1,1,0,1,1,0
+22-23,Male,Junior,Health Sciences,1,3,0,0,0,0,0,0,0
+24-25,Male,Senior,Business/Economics,1,2,0,0,0,0,0,1,0
+18-19,Male,Junior,Social Sciences,4,4,1,1,0,1,1,0,0
+24-25,Female,Senior,Business/Economics,2,3,0,0,1,1,1,0,0
+20-21,Female,Sophomore,Computer Science/IT,4,3,1,0,1,0,0,0,0
+18-19,Female,Freshman,Business/Economics,2,3,0,0,1,1,0,0,0
+20-21,Male,Sophomore,Business/Economics,1,3,0,0,0,0,0,0,1
+26+,Male,Senior,Engineering,3,3,0,0,1,1,1,0,0
+20-21,Female,Sophomore,Business/Economics,4,2,1,1,1,1,1,0,0
+20-21,Female,Sophomore,Engineering,2,3,0,0,1,0,1,1,0
+20-21,Non-binary/third gender,Junior,Business/Economics,3,2,0,0,1,1,1,0,0
+18-19,Male,Freshman,Social Sciences,2,2,0,0,0,1,0,1,0
+18-19,Female,Freshman,Business/Economics,1,1,0,0,0,1,0,0,0
+18-19,Male,Freshman,Engineering,5,4,1,0,1,1,1,1,0
+18-19,Male,Freshman,Arts and Humanities,1,3,1,0,0,1,0,0,0
+18-19,Female,Freshman,Social Sciences,3,2,1,0,0,1,1,0,0
+18-19,Female,Freshman,Education,2,2,0,0,0,1,0,0,0
+20-21,Prefer to self-describe,Junior,Social Sciences,3,1,1,0,0,1,0,0,0
+18-19,Male,Freshman,Natural Sciences,5,4,1,0,1,1,1,0,0
+20-21,Male,Sophomore,Natural Sciences,3,3,0,0,1,1,1,0,0
+22-23,Female,Sophomore,Business/Economics,3,5,0,1,1,0,0,0,0
+20-21,Female,Junior,Natural Sciences,3,2,0,0,1,1,0,0,0
+22-23,Male,Junior,Social Sciences,4,3,1,1,1,0,0,0,0
+18-19,Male,Freshman,Natural Sciences,3,2,0,1,0,1,1,0,0
+18-19,Male,Freshman,Business/Economics,2,4,0,0,0,0,0,0,1
+18-19,Female,Freshman,Computer Science/IT,3,3,0,0,1,1,0,1,0
+18-19,Male,Freshman,Arts and Humanities,4,1,1,0,0,1,0,0,0
+18-19,Male,Freshman,Natural Sciences,4,3,0,1,1,1,1,1,0
+18-19,Male,Freshman,Social Sciences,3,5,0,1,1,1,0,1,0
+18-19,Male,Freshman,Social Sciences,2,3,1,0,0,0,0,0,0
+18-19,Male,Freshman,Social Sciences,2,4,0,0,0,1,0,0,0
+20-21,Female,Sophomore,Social Sciences,3,4,0,0,1,0,0,1,0
+18-19,Male,Freshman,Engineering,4,3,1,0,1,0,0,1,0
+20-21,Female,Sophomore,Social Sciences,2,2,0,0,0,0,1,0,1
+20-21,Male,Junior,Health Sciences,2,2,0,0,0,1,0,0,0
+22-23,Female,Sophomore,Education,1,1,0,0,1,0,0,0,0
+18-19,Female,Freshman,Natural Sciences,2,2,0,0,1,0,0,0,0
+22-23,Female,Freshman,Arts and Humanities,1,1,0,0,1,0,0,0,0
+20-21,Female,Sophomore,Business/Economics,1,3,0,0,1,1,0,0,0
+18-19,Male,Freshman,Engineering,5,4,1,1,1,0,0,1,0
+22-23,Male,Junior,Business/Economics,2,2,1,0,0,1,0,0,0
+24-25,Female,Junior,Arts and Humanities,1,2,0,0,0,0,0,0,1
+18-19,Prefer to self-describe,Freshman,Natural Sciences,4,4,1,1,0,1,0,0,0
+18-19,Female,Freshman,Engineering,2,4,0,0,0,0,0,0,1
+22-23,Female,Senior,Engineering,5,4,1,0,1,1,1,1,0
+22-23,Female,Junior,Social Sciences,1,1,0,0,0,0,0,0,0
+18-19,Male,Freshman,Computer Science/IT,4,5,1,1,0,1,0,1,0
+18-19,Male,Sophomore,Social Sciences,3,2,0,0,1,0,0,1,0
+20-21,Female,Sophomore,Social Sciences,3,3,1,0,1,0,1,1,0
+20-21,Female,Senior,Health Sciences,4,3,1,1,1,1,0,0,0
+20-21,Male,Sophomore,Social Sciences,1,2,0,0,1,0,0,0,0
+20-21,Female,Senior,Social Sciences,4,2,1,1,0,1,1,1,0
+20-21,Male,Freshman,Arts and Humanities,1,2,0,1,0,0,1,0,0
+22-23,Female,Senior,Health Sciences,3,4,1,1,0,0,1,0,0
+18-19,Male,Freshman,Engineering,3,2,0,1,0,0,1,1,0
+18-19,Male,Freshman,Natural Sciences,4,3,1,1,0,1,0,1,0
+22-23,Female,Senior,Engineering,4,3,1,0,1,1,0,0,0
+22-23,Male,Senior,Social Sciences,1,2,0,0,1,0,1,0,0
+20-21,Female,Freshman,Business/Economics,4,5,0,1,0,1,1,1,0
+20-21,Female,Sophomore,Business/Economics,2,2,0,0,0,1,1,0,0
+18-19,Female,Freshman,Arts and Humanities,2,3,0,0,1,0,0,0,1
+20-21,Male,Junior,Business/Economics,1,2,0,0,0,0,0,0,1
+20-21,Male,Senior,Health Sciences,2,2,1,0,0,1,0,0,0
+18-19,Male,Freshman,Arts and Humanities,1,2,0,0,0,1,1,0,0
+18-19,Prefer to self-describe,Junior,Social Sciences,1,1,1,0,0,1,0,0,0
+20-21,Female,Junior,Social Sciences,3,4,1,0,1,1,0,0,0
+18-19,Female,Freshman,Social Sciences,3,5,0,0,1,1,1,1,0
+20-21,Female,Sophomore,Health Sciences,3,2,0,0,1,1,1,0,0
+18-19,Female,Freshman,Business/Economics,4,3,1,1,0,0,0,1,0
+20-21,Female,Junior,Business/Economics,2,5,0,0,0,1,0,0,0
+18-19,Male,Freshman,Engineering,3,2,1,0,1,1,0,0,0
+22-23,Female,Junior,Social Sciences,1,2,0,0,0,0,1,0,0
+20-21,Male,Senior,Business/Economics,1,1,0,0,1,0,0,0,1
+22-23,Female,Junior,Business/Economics,3,4,0,0,1,1,1,1,0
+22-23,Female,Junior,Natural Sciences,3,3,1,1,1,0,1,0,0
+20-21,Female,Sophomore,Other,1,2,0,0,0,0,0,0,1
+18-19,Male,Freshman,Engineering,2,5,0,0,0,0,0,0,1
+20-21,Male,Sophomore,Business/Economics,5,4,1,1,0,0,1,1,0
+20-21,Male,Sophomore,Engineering,5,4,0,1,1,0,1,1,0
+22-23,Male,Sophomore,Social Sciences,1,2,0,0,0,0,1,0,0
+20-21,Male,Junior,Arts and Humanities,4,3,0,1,0,0,0,1,0
+18-19,Female,Freshman,Social Sciences,2,2,0,0,1,1,0,0,0
+18-19,Female,Freshman,Social Sciences,5,4,1,1,1,1,0,1,0
+20-21,Male,Junior,Natural Sciences,3,3,0,1,0,1,0,1,0
+20-21,Male,Sophomore,Natural Sciences,4,2,1,1,0,0,1,1,0
+20-21,Male,Junior,Health Sciences,2,1,0,0,1,0,0,0,0
+20-21,Female,Sophomore,Natural Sciences,1,2,0,0,1,1,0,0,0
+26+,Female,Senior,Natural Sciences,5,3,1,1,1,1,1,1,0
+20-21,Female,Sophomore,Arts and Humanities,2,1,0,0,0,0,0,0,1
+18-19,Female,Freshman,Arts and Humanities,1,1,0,0,1,0,0,0,0
+18-19,Prefer to self-describe,Freshman,Natural Sciences,3,3,0,0,1,1,1,1,0
+18-19,Female,Freshman,Business/Economics,1,2,0,0,1,0,0,0,0
+18-19,Male,Freshman,Engineering,2,2,0,0,0,1,0,0,0
+18-19,Female,Freshman,Social Sciences,5,5,1,1,1,1,1,0,0
+18-19,Male,Freshman,Arts and Humanities,2,1,0,0,0,1,1,0,0
+18-19,Female,Freshman,Business/Economics,2,5,0,0,1,0,0,0,0
+18-19,Male,Freshman,Social Sciences,4,3,1,1,1,0,1,1,0
+22-23,Female,Junior,Arts and Humanities,1,1,0,0,0,0,0,0,1
+18-19,Female,Freshman,Computer Science/IT,5,5,1,0,1,0,1,1,0
+20-21,Female,Sophomore,Arts and Humanities,1,1,0,1,0,0,0,0,0
+20-21,Female,Junior,Natural Sciences,3,3,1,0,0,1,0,0,0
+26+,Male,Junior,Social Sciences,5,3,1,1,1,1,1,0,0
+18-19,Male,Freshman,Social Sciences,1,2,0,1,0,0,0,0,0
+20-21,Male,Freshman,Business/Economics,3,3,0,1,1,0,0,0,0
+24-25,Male,Junior,Engineering,5,3,1,1,1,1,0,1,0
+22-23,Female,Junior,Business/Economics,4,4,1,0,1,0,1,1,0
+22-23,Male,Junior,Engineering,4,4,0,1,1,1,0,0,0
+18-19,Non-binary/third gender,Freshman,Arts and Humanities,2,2,0,1,0,0,1,0,0
+18-19,Female,Freshman,Engineering,5,4,1,1,1,1,1,1,0
+22-23,Female,Junior,Social Sciences,2,3,0,1,0,1,1,0,0
+24-25,Male,Senior,Computer Science/IT,3,5,0,0,0,1,1,0,0
+20-21,Female,Freshman,Natural Sciences,2,3,0,0,1,1,0,0,0
+20-21,Female,Sophomore,Health Sciences,2,2,0,0,1,0,0,0,0
+18-19,Female,Freshman,Business/Economics,4,3,1,1,1,0,0,1,0
+22-23,Female,Junior,Arts and Humanities,1,2,0,0,0,0,0,0,0
+18-19,Female,Freshman,Arts and Humanities,2,3,0,0,0,1,0,0,0
+20-21,Male,Sophomore,Engineering,4,3,1,1,1,0,1,0,0
+20-21,Female,Junior,Natural Sciences,1,2,0,0,0,0,0,0,1
+20-21,Male,Freshman,Engineering,5,4,1,1,0,1,0,1,0
+18-19,Male,Freshman,Social Sciences,4,2,1,1,1,0,1,1,0
+18-19,Male,Junior,Social Sciences,3,2,1,1,1,0,1,0,0
+20-21,Male,Sophomore,Arts and Humanities,2,1,0,0,1,0,0,0,0
+18-19,Male,Freshman,Education,4,4,0,1,1,0,0,1,0
+20-21,Male,Sophomore,Computer Science/IT,4,4,1,0,0,0,1,1,0
+18-19,Non-binary/third gender,Freshman,Health Sciences,1,1,0,0,1,0,0,0,0
+20-21,Female,Junior,Social Sciences,3,2,0,1,1,1,1,0,0
+20-21,Non-binary/third gender,Sophomore,Natural Sciences,4,2,0,0,0,1,0,1,0
+18-19,Male,Junior,Computer Science/IT,4,5,1,0,0,1,0,0,0
+20-21,Male,Sophomore,Social Sciences,3,2,1,0,1,1,0,0,0
+18-19,Female,Freshman,Engineering,4,5,0,1,1,0,1,0,0
+18-19,Male,Freshman,Health Sciences,1,2,0,0,0,0,0,0,1
+26+,Male,Senior,Health Sciences,2,3,0,0,0,1,1,1,0
+20-21,Female,Sophomore,Computer Science/IT,3,4,1,0,0,0,0,0,0
+22-23,Male,Junior,Social Sciences,1,1,0,0,0,1,0,0,0
+18-19,Female,Freshman,Social Sciences,1,2,0,0,0,1,1,0,0
+22-23,Female,Junior,Education,1,2,0,0,0,1,1,0,0
+22-23,Male,Senior,Arts and Humanities,1,1,0,0,0,0,0,0,1
+20-21,Male,Sophomore,Computer Science/IT,4,5,1,0,0,0,0,1,0
+20-21,Female,Sophomore,Computer Science/IT,5,4,0,1,0,1,0,1,0
+20-21,Male,Sophomore,Natural Sciences,3,5,0,0,1,1,0,0,0
+20-21,Male,Freshman,Other,2,2,0,0,0,0,1,0,1
+24-25,Prefer to self-describe,Junior,Social Sciences,1,3,0,0,0,0,0,0,1
+22-23,Male,Senior,Social Sciences,1,3,1,0,0,1,0,0,0
+24-25,Female,Other,Arts and Humanities,2,2,1,0,0,0,0,1,0
+18-19,Non-binary/third gender,Freshman,Business/Economics,3,2,1,1,0,0,1,0,0
+22-23,Male,Freshman,Social Sciences,2,1,0,0,0,0,1,1,0
+24-25,Male,Senior,Social Sciences,1,2,1,0,0,0,0,0,0
+18-19,Male,Freshman,Engineering,4,2,1,1,1,1,0,1,0
+18-19,Male,Freshman,Health Sciences,1,1,0,0,0,1,0,0,0
+22-23,Male,Junior,Social Sciences,2,2,1,0,0,1,1,0,0
+20-21,Female,Sophomore,Business/Economics,2,3,0,0,0,1,1,0,0
+22-23,Male,Junior,Health Sciences,1,2,0,0,0,0,0,1,0
+18-19,Female,Freshman,Arts and Humanities,1,1,0,0,0,0,0,0,0
+22-23,Prefer not to say,Junior,Arts and Humanities,2,3,1,0,0,0,0,0,1
+18-19,Female,Freshman,Social Sciences,1,2,0,1,1,0,0,0,0
+18-19,Female,Freshman,Natural Sciences,5,5,1,1,1,1,0,0,0
+18-19,Male,Freshman,Social Sciences,2,3,0,0,0,0,1,0,1
+22-23,Female,Junior,Education,1,1,0,0,0,0,1,0,0
+22-23,Female,Sophomore,Business/Economics,2,2,0,1,0,1,0,0,0
+20-21,Male,Senior,Natural Sciences,5,4,1,0,1,0,1,1,0
+20-21,Male,Senior,Social Sciences,2,3,0,0,0,0,0,0,1
+22-23,Female,Senior,Business/Economics,2,3,0,1,0,1,0,0,0
+20-21,Male,Other,Computer Science/IT,3,2,0,0,1,1,1,1,0
+22-23,Male,Junior,Engineering,2,1,0,0,0,1,1,0,0
+20-21,Male,Senior,Engineering,4,3,1,1,0,1,1,1,0
+20-21,Male,Freshman,Natural Sciences,3,4,0,0,1,1,1,0,0
+20-21,Female,Sophomore,Health Sciences,3,4,1,0,0,1,1,0,0
+20-21,Female,Sophomore,Engineering,5,4,1,0,1,1,0,1,0
+22-23,Female,Junior,Engineering,5,4,1,1,0,1,0,1,0
+20-21,Male,Sophomore,Arts and Humanities,2,1,0,0,1,1,0,0,0
+18-19,Male,Freshman,Arts and Humanities,3,2,0,0,1,1,1,1,0
+22-23,Female,Senior,Social Sciences,2,1,0,0,0,1,0,0,0
+20-21,Male,Junior,Computer Science/IT,4,4,1,0,1,0,1,0,0
+20-21,Male,Sophomore,Business/Economics,2,3,0,0,0,1,0,1,0
+24-25,Female,Senior,Business/Economics,4,3,1,1,1,0,0,1,0
+20-21,Male,Junior,Health Sciences,3,3,1,0,1,1,0,0,0
+18-19,Female,Freshman,Health Sciences,1,3,0,0,0,0,0,0,0
+24-25,Male,Senior,Health Sciences,1,2,0,0,1,0,0,0,0
+20-21,Male,Sophomore,Social Sciences,1,2,0,0,0,0,0,0,0
+20-21,Male,Sophomore,Computer Science/IT,4,4,1,1,1,1,0,0,0
+18-19,Non-binary/third gender,Sophomore,Social Sciences,1,2,0,0,0,1,1,0,0
+22-23,Female,Junior,Social Sciences,3,1,0,0,0,1,0,0,0
+20-21,Female,Sophomore,Social Sciences,4,4,0,0,1,0,1,1,0
+20-21,Female,Junior,Social Sciences,2,1,0,0,0,0,0,0,1
+22-23,Male,Senior,Business/Economics,5,4,1,1,1,0,0,1,0
+22-23,Female,Sophomore,Engineering,3,2,0,0,1,0,0,1,0
+18-19,Male,Freshman,Arts and Humanities,3,3,0,1,1,1,0,0,0
+20-21,Female,Freshman,Computer Science/IT,4,4,1,1,1,1,0,0,0
+18-19,Male,Freshman,Natural Sciences,1,3,0,0,0,0,0,0,0
+22-23,Female,Junior,Social Sciences,1,3,0,0,0,0,0,0,0
+18-19,Male,Freshman,Business/Economics,2,3,1,0,1,0,1,0,0
+20-21,Male,Senior,Social Sciences,1,2,0,0,0,1,1,0,0
+22-23,Female,Junior,Natural Sciences,4,3,1,0,1,0,0,1,0
+22-23,Male,Junior,Business/Economics,1,2,0,0,0,1,0,0,0
+20-21,Male,Sophomore,Social Sciences,3,1,0,0,1,1,1,0,0
+22-23,Male,Senior,Arts and Humanities,1,2,0,0,0,0,0,0,0
+18-19,Male,Freshman,Natural Sciences,2,2,0,0,1,0,1,0,1
+22-23,Female,Junior,Health Sciences,4,4,0,1,1,0,0,1,0
+18-19,Female,Freshman,Social Sciences,1,3,0,0,0,0,0,0,0
+20-21,Female,Sophomore,Computer Science/IT,1,2,0,0,0,1,0,0,0
+22-23,Female,Junior,Computer Science/IT,2,3,1,0,0,1,1,0,0
+18-19,Male,Freshman,Health Sciences,1,2,0,0,0,1,0,0,0
+18-19,Female,Freshman,Engineering,5,5,1,1,1,1,1,1,0
+22-23,Male,Sophomore,Natural Sciences,5,4,0,1,1,0,1,1,0
+22-23,Male,Junior,Computer Science/IT,3,2,0,0,0,1,1,0,0
+20-21,Female,Sophomore,Health Sciences,2,2,0,0,1,0,1,0,0
+22-23,Male,Sophomore,Business/Economics,4,2,0,1,1,0,1,0,0
+20-21,Female,Junior,Social Sciences,1,2,0,0,1,0,0,0,0
+18-19,Male,Senior,Arts and Humanities,2,4,0,0,1,0,0,1,0
+20-21,Female,Junior,Engineering,5,4,1,1,1,1,0,1,0
+18-19,Female,Sophomore,Engineering,5,5,1,1,1,0,0,1,0
+24-25,Female,Junior,Arts and Humanities,2,4,0,0,0,1,1,0,0
+20-21,Female,Senior,Natural Sciences,4,4,1,1,0,0,1,0,0
+20-21,Female,Sophomore,Business/Economics,2,3,0,0,0,0,1,0,0
+20-21,Male,Senior,Arts and Humanities,4,2,0,1,1,1,1,1,0
+24-25,Female,Other,Education,3,4,0,0,1,1,1,1,0
+18-19,Male,Freshman,Social Sciences,1,1,0,0,0,1,0,0,0
+20-21,Female,Senior,Arts and Humanities,3,3,0,1,0,1,0,1,0
+20-21,Female,Junior,Natural Sciences,1,3,0,0,0,0,0,0,1
+20-21,Female,Sophomore,Computer Science/IT,4,4,0,0,1,1,1,0,0
+18-19,Male,Freshman,Arts and Humanities,4,4,0,1,1,1,0,0,0
+22-23,Male,Junior,Computer Science/IT,4,3,0,0,1,1,0,1,0
+24-25,Female,Sophomore,Natural Sciences,4,1,1,1,1,1,0,0,0
+20-21,Male,Junior,Arts and Humanities,1,2,0,0,1,0,0,0,0
+22-23,Male,Other,Social Sciences,2,2,0,0,0,0,0,1,0
+24-25,Male,Junior,Natural Sciences,4,3,0,1,1,1,0,1,0
+22-23,Female,Senior,Social Sciences,1,2,0,0,0,0,0,1,0
+18-19,Female,Sophomore,Health Sciences,2,1,0,0,1,1,1,0,0
+20-21,Male,Senior,Engineering,3,1,1,0,0,0,1,0,0
+20-21,Male,Senior,Education,5,4,1,1,0,0,0,1,0
+20-21,Male,Sophomore,Social Sciences,1,2,1,0,0,0,0,0,0
+22-23,Female,Senior,Education,2,1,0,0,1,1,0,0,0
+24-25,Female,Senior,Business/Economics,3,4,1,0,0,1,0,1,0
+24-25,Male,Junior,Social Sciences,2,2,1,0,0,0,1,1,0
+20-21,Male,Sophomore,Arts and Humanities,2,3,0,1,0,0,1,0,1
+18-19,Male,Freshman,Arts and Humanities,1,2,0,0,0,1,1,0,0
+26+,Female,Junior,Computer Science/IT,4,2,1,1,1,1,0,1,0
+22-23,Female,Senior,Business/Economics,5,4,1,1,1,0,1,1,0
+18-19,Male,Freshman,Social Sciences,2,1,0,0,0,1,0,0,0
+24-25,Male,Junior,Natural Sciences,2,3,0,0,0,0,1,1,0
+22-23,Male,Junior,Social Sciences,1,2,0,0,0,0,0,0,0
+20-21,Non-binary/third gender,Junior,Natural Sciences,4,4,1,0,1,0,0,0,0
+20-21,Male,Sophomore,Business/Economics,1,2,0,0,0,1,0,1,0
+20-21,Female,Freshman,Engineering,2,3,1,0,0,1,1,0,0
+18-19,Female,Freshman,Engineering,5,4,1,1,1,1,1,1,0
+20-21,Male,Sophomore,Business/Economics,1,1,0,0,0,0,0,0,1
+22-23,Male,Senior,Business/Economics,4,3,1,0,1,1,0,1,0
+18-19,Male,Freshman,Business/Economics,1,2,0,0,0,0,0,0,0
+20-21,Female,Junior,Engineering,4,4,1,1,0,1,0,0,0
+20-21,Female,Sophomore,Social Sciences,2,1,0,0,1,1,0,0,0
+20-21,Female,Sophomore,Social Sciences,3,3,1,0,0,0,1,0,0
+24-25,Female,Senior,Arts and Humanities,3,3,1,0,0,1,1,0,0
+20-21,Male,Junior,Business/Economics,2,2,0,0,1,0,0,0,0
+20-21,Non-binary/third gender,Freshman,Business/Economics,1,2,0,0,0,0,0,0,1
+22-23,Female,Junior,Engineering,5,4,0,1,1,1,0,1,0
+20-21,Male,Freshman,Social Sciences,4,5,1,1,1,0,0,0,0
+18-19,Non-binary/third gender,Freshman,Business/Economics,1,2,0,0,0,0,0,0,1
+20-21,Female,Junior,Engineering,5,5,1,0,1,1,1,1,0
+18-19,Female,Freshman,Engineering,5,4,1,1,1,1,1,1,0
+18-19,Female,Freshman,Business/Economics,5,4,1,0,1,1,1,0,0
+20-21,Female,Sophomore,Business/Economics,3,1,0,1,0,1,0,0,0
+20-21,Female,Senior,Social Sciences,3,4,0,0,1,0,1,0,0
+24-25,Male,Other,Health Sciences,2,3,0,1,0,1,0,0,0
+20-21,Male,Freshman,Arts and Humanities,2,4,0,1,0,1,1,0,0
+20-21,Female,Junior,Health Sciences,1,3,0,0,1,1,0,0,0
+20-21,Male,Sophomore,Computer Science/IT,3,4,0,1,1,1,1,0,0
+18-19,Male,Freshman,Natural Sciences,2,2,0,0,0,1,1,0,0
+22-23,Male,Senior,Arts and Humanities,3,4,0,1,0,1,0,0,0
+18-19,Male,Sophomore,Business/Economics,3,2,0,0,1,1,1,1,0
+24-25,Female,Other,Business/Economics,4,3,0,0,0,0,1,1,0
+18-19,Female,Freshman,Social Sciences,2,1,0,0,1,1,1,0,0
+20-21,Male,Sophomore,Computer Science/IT,2,3,0,1,1,0,1,0,0
+18-19,Male,Freshman,Education,3,3,0,1,0,1,1,1,0
+26+,Male,Junior,Natural Sciences,3,4,0,1,1,1,0,0,0
+20-21,Female,Junior,Computer Science/IT,4,4,1,0,1,0,1,1,0
+20-21,Female,Sophomore,Arts and Humanities,3,5,0,1,0,0,0,0,0
+18-19,Male,Freshman,Business/Economics,2,2,0,0,0,1,0,0,1
+22-23,Female,Junior,Arts and Humanities,1,2,0,0,1,0,0,0,1
+18-19,Female,Freshman,Natural Sciences,3,5,0,0,1,0,0,0,0
+22-23,Female,Senior,Health Sciences,2,4,0,0,0,1,0,0,1
+18-19,Female,Freshman,Computer Science/IT,5,4,1,1,1,0,1,1,0
+18-19,Male,Freshman,Arts and Humanities,4,1,1,1,1,0,1,0,0
+18-19,Female,Freshman,Business/Economics,4,3,0,1,0,1,0,0,0
+20-21,Male,Freshman,Natural Sciences,2,3,0,0,0,1,0,0,1
+20-21,Female,Freshman,Business/Economics,1,2,0,0,0,0,0,0,0
+18-19,Female,Freshman,Engineering,1,2,0,0,1,0,0,0,0
+22-23,Female,Senior,Engineering,2,2,0,0,1,0,0,0,1
+20-21,Female,Sophomore,Natural Sciences,3,4,0,1,0,1,1,0,0
+20-21,Male,Senior,Business/Economics,2,2,0,0,0,1,0,0,0
+20-21,Female,Junior,Social Sciences,1,1,0,0,0,0,0,0,0
+20-21,Non-binary/third gender,Sophomore,Arts and Humanities,3,1,0,0,1,1,0,1,0
+20-21,Female,Junior,Business/Economics,4,4,0,1,1,0,1,1,0
+18-19,Male,Freshman,Business/Economics,3,3,0,0,1,0,1,0,0
+18-19,Male,Freshman,Computer Science/IT,5,4,1,1,1,1,1,1,0
+22-23,Male,Junior,Computer Science/IT,4,4,1,0,0,1,0,0,0
+24-25,Female,Senior,Arts and Humanities,1,1,0,0,0,0,0,0,1
+20-21,Female,Junior,Business/Economics,4,4,1,1,1,0,0,0,0
+18-19,Male,Sophomore,Social Sciences,5,3,1,1,1,1,1,1,0
+20-21,Female,Junior,Social Sciences,2,1,1,0,0,1,1,0,0
+20-21,Female,Sophomore,Engineering,5,4,1,1,1,0,1,1,0
+18-19,Female,Freshman,Arts and Humanities,4,5,1,0,0,1,1,1,0
+18-19,Female,Freshman,Business/Economics,3,2,1,0,1,1,1,0,0
+22-23,Female,Junior,Social Sciences,2,1,0,0,0,1,1,0,0
+22-23,Female,Junior,Health Sciences,3,4,0,1,0,0,0,0,0
+18-19,Male,Freshman,Natural Sciences,3,3,0,0,1,0,0,0,0
+18-19,Female,Freshman,Social Sciences,1,2,0,0,0,0,0,0,1
+18-19,Female,Freshman,Natural Sciences,5,4,1,1,0,1,0,0,0
+22-23,Female,Senior,Computer Science/IT,3,5,1,0,1,0,0,1,0
+18-19,Female,Freshman,Education,4,4,0,1,1,1,0,1,0
+18-19,Female,Freshman,Social Sciences,1,2,0,1,0,0,0,0,0
+22-23,Male,Sophomore,Health Sciences,3,2,0,1,1,1,0,0,0
+18-19,Male,Sophomore,Health Sciences,3,3,1,0,1,1,0,0,0
+22-23,Male,Junior,Health Sciences,2,2,0,0,0,0,1,0,1
+18-19,Male,Freshman,Natural Sciences,2,1,0,0,0,1,1,0,0
+18-19,Female,Freshman,Natural Sciences,2,3,0,1,0,1,1,0,0
+18-19,Prefer to self-describe,Freshman,Business/Economics,3,4,1,0,1,0,1,1,0
+22-23,Male,Junior,Engineering,4,4,1,1,0,1,1,1,0
+22-23,Male,Senior,Natural Sciences,2,3,0,0,0,0,0,0,1
+22-23,Female,Senior,Computer Science/IT,4,1,1,1,1,0,0,0,0
+20-21,Male,Junior,Business/Economics,3,2,1,0,1,0,0,0,0
+22-23,Female,Sophomore,Computer Science/IT,4,5,1,1,0,1,1,1,0
+18-19,Female,Sophomore,Engineering,4,3,1,0,1,1,1,0,0
+18-19,Female,Freshman,Arts and Humanities,5,4,1,1,1,1,0,1,0
+22-23,Male,Junior,Engineering,5,4,1,1,1,1,1,1,0
+18-19,Male,Freshman,Natural Sciences,4,2,1,1,0,0,1,1,0
+18-19,Female,Freshman,Engineering,3,5,0,0,1,1,1,0,0
+18-19,Female,Freshman,Business/Economics,1,2,0,0,0,0,0,0,0
+18-19,Male,Freshman,Business/Economics,3,2,1,0,1,1,0,0,0
+18-19,Female,Freshman,Health Sciences,1,2,0,0,0,0,0,0,1
+20-21,Male,Sophomore,Social Sciences,4,2,1,0,0,0,1,0,0
+20-21,Female,Sophomore,Engineering,4,4,0,0,0,1,1,0,0
+22-23,Male,Sophomore,Business/Economics,4,2,1,1,1,1,0,1,0
+22-23,Female,Senior,Natural Sciences,3,4,1,0,0,1,1,1,0
+20-21,Male,Sophomore,Social Sciences,1,1,0,1,0,0,0,0,0
+18-19,Male,Freshman,Natural Sciences,2,2,0,0,0,1,1,0,0
+20-21,Male,Sophomore,Social Sciences,3,4,0,0,0,1,1,0,0
+20-21,Male,Sophomore,Arts and Humanities,2,3,0,0,0,0,0,0,1
+18-19,Female,Freshman,Social Sciences,3,3,0,1,0,1,0,0,0
+20-21,Prefer not to say,Junior,Arts and Humanities,1,1,0,0,0,0,0,0,1
+20-21,Male,Senior,Education,1,3,0,0,1,0,0,0,0
+20-21,Male,Sophomore,Education,1,2,0,0,0,0,0,0,0
+20-21,Female,Junior,Business/Economics,4,5,1,1,1,1,1,0,0
+18-19,Female,Freshman,Computer Science/IT,4,5,1,1,1,0,1,0,0
+24-25,Female,Senior,Social Sciences,3,3,0,1,0,1,0,0,0
+22-23,Male,Junior,Computer Science/IT,4,5,1,0,0,1,1,1,0
+18-19,Male,Freshman,Engineering,5,4,1,1,1,1,0,1,0
+22-23,Female,Junior,Health Sciences,1,2,0,0,0,1,1,0,0
+20-21,Male,Junior,Business/Economics,1,1,0,0,1,0,0,0,0
+22-23,Female,Senior,Engineering,4,5,1,0,1,0,0,1,0
+22-23,Male,Junior,Social Sciences,2,1,1,0,0,1,0,0,0
+20-21,Female,Sophomore,Other,1,1,0,0,0,0,1,0,0
+18-19,Male,Sophomore,Arts and Humanities,4,1,1,1,1,0,0,1,0
+18-19,Female,Freshman,Natural Sciences,5,4,1,1,1,0,1,0,0
+20-21,Female,Senior,Computer Science/IT,5,4,1,0,1,1,1,1,0
+20-21,Female,Junior,Computer Science/IT,1,2,0,0,1,0,0,0,0
+18-19,Male,Freshman,Arts and Humanities,2,1,0,0,0,1,0,0,0
+18-19,Female,Freshman,Health Sciences,2,3,0,0,1,1,0,0,0
+22-23,Female,Senior,Social Sciences,1,1,0,0,1,1,0,0,0
+26+,Female,Sophomore,Natural Sciences,4,4,1,1,0,1,0,1,0
+20-21,Female,Sophomore,Social Sciences,2,3,0,0,1,0,1,0,0
+18-19,Female,Freshman,Social Sciences,3,3,1,1,1,0,1,0,0
+18-19,Female,Freshman,Natural Sciences,1,2,0,0,0,1,1,0,0
+18-19,Male,Freshman,Business/Economics,4,3,1,1,0,1,0,1,0
+24-25,Female,Senior,Social Sciences,1,2,0,0,0,0,0,0,0
+18-19,Female,Junior,Social Sciences,4,4,0,0,0,1,0,1,0
+20-21,Male,Freshman,Business/Economics,3,3,0,0,0,1,1,0,0
+18-19,Male,Freshman,Engineering,4,3,1,1,0,0,0,1,0
+20-21,Male,Junior,Health Sciences,4,2,1,0,1,0,1,0,0
+22-23,Female,Junior,Arts and Humanities,1,2,0,0,1,0,0,0,0
+22-23,Female,Senior,Business/Economics,4,3,1,1,1,0,1,1,0
+18-19,Female,Freshman,Arts and Humanities,2,3,0,0,0,0,1,1,0
+18-19,Female,Freshman,Arts and Humanities,3,3,0,0,1,0,1,0,0
+18-19,Male,Freshman,Computer Science/IT,3,4,0,0,1,0,1,0,0
+24-25,Male,Senior,Natural Sciences,2,3,0,0,0,1,0,1,0
+22-23,Male,Junior,Social Sciences,3,4,0,0,1,1,0,0,0
+20-21,Male,Senior,Social Sciences,3,5,0,0,0,1,0,1,0
+20-21,Male,Junior,Arts and Humanities,1,2,0,0,0,0,1,0,0
+22-23,Male,Senior,Engineering,2,2,0,0,0,0,0,0,1
+18-19,Female,Freshman,Education,2,1,0,0,0,1,0,0,0
+24-25,Female,Senior,Arts and Humanities,2,2,0,0,1,0,0,0,0
+20-21,Prefer not to say,Senior,Social Sciences,1,1,1,0,0,0,0,0,0
+20-21,Female,Junior,Engineering,5,4,1,0,1,1,0,1,0
+20-21,Female,Junior,Health Sciences,2,3,0,0,1,1,1,0,0
+18-19,Male,Sophomore,Business/Economics,1,3,0,0,0,0,1,0,0
+18-19,Female,Freshman,Arts and Humanities,4,5,1,0,1,1,0,1,0
+22-23,Female,Senior,Arts and Humanities,2,1,0,0,1,0,1,0,1
+18-19,Male,Freshman,Natural Sciences,4,2,0,1,1,1,1,1,0
+20-21,Male,Sophomore,Business/Economics,2,2,0,0,1,1,0,0,0
+18-19,Female,Freshman,Arts and Humanities,2,1,0,0,0,1,1,0,0
+20-21,Male,Senior,Natural Sciences,4,4,1,1,1,0,0,1,0
+18-19,Female,Sophomore,Arts and Humanities,3,2,0,0,0,0,1,0,0
+20-21,Female,Junior,Engineering,2,2,0,0,0,0,1,0,0
+22-23,Male,Senior,Social Sciences,4,1,1,1,1,1,0,1,0
+18-19,Male,Freshman,Arts and Humanities,2,2,0,0,0,1,1,1,0
+20-21,Male,Senior,Natural Sciences,2,3,0,0,0,0,0,0,1
+20-21,Male,Sophomore,Business/Economics,1,2,0,0,0,0,0,0,1
+22-23,Male,Junior,Education,1,2,0,1,0,1,0,0,0
+24-25,Female,Junior,Natural Sciences,3,1,0,1,1,0,1,0,0
+22-23,Male,Senior,Social Sciences,3,5,0,0,0,1,1,1,0
+18-19,Female,Freshman,Computer Science/IT,1,3,0,0,0,0,0,0,0
+18-19,Male,Freshman,Social Sciences,3,3,0,1,1,0,0,1,0
+18-19,Female,Freshman,Health Sciences,1,1,0,0,0,0,0,0,1
+20-21,Male,Junior,Business/Economics,4,4,1,1,1,0,0,0,0
+18-19,Male,Freshman,Natural Sciences,2,1,0,0,0,1,1,0,0
+20-21,Female,Junior,Arts and Humanities,1,1,0,0,0,1,0,0,0
+20-21,Female,Senior,Business/Economics,5,4,1,0,0,1,1,1,0
+20-21,Male,Sophomore,Engineering,5,4,1,1,0,1,1,0,0
+22-23,Female,Junior,Engineering,5,4,1,1,1,1,1,0,0
+18-19,Male,Freshman,Social Sciences,3,2,0,0,0,1,0,1,0
+18-19,Female,Freshman,Social Sciences,2,4,1,0,0,0,1,0,0
+22-23,Male,Junior,Engineering,5,5,1,1,0,1,0,1,0
+20-21,Male,Senior,Health Sciences,2,3,0,0,0,0,0,1,1
+22-23,Female,Sophomore,Arts and Humanities,4,3,1,1,0,1,0,0,0
+20-21,Female,Sophomore,Business/Economics,4,2,1,1,1,1,0,1,0
+18-19,Male,Freshman,Social Sciences,1,1,0,1,0,0,1,0,0
+22-23,Female,Senior,Health Sciences,3,3,1,0,1,0,0,0,0
+22-23,Female,Sophomore,Arts and Humanities,1,2,0,0,0,0,0,0,0
+22-23,Male,Senior,Social Sciences,2,5,0,0,0,1,1,0,0
+18-19,Female,Freshman,Engineering,1,2,1,1,0,0,0,0,0
+20-21,Male,Sophomore,Arts and Humanities,3,2,0,1,1,1,0,0,0
+20-21,Female,Sophomore,Business/Economics,4,3,1,1,1,1,0,0,0
+18-19,Female,Sophomore,Business/Economics,2,1,0,0,0,1,1,0,0
+24-25,Female,Junior,Social Sciences,1,2,0,0,0,1,0,0,0
+18-19,Male,Freshman,Business/Economics,2,1,0,0,0,1,1,0,0
+24-25,Male,Junior,Natural Sciences,4,3,1,1,0,1,0,1,0
+20-21,Male,Junior,Social Sciences,1,2,0,1,0,0,0,0,1
